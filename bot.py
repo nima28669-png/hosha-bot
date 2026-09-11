@@ -5,7 +5,7 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 logging.basicConfig(level=logging.INFO)
 print("BOT STARTED ON SERVER...")
 
-TOKEN = "8974692488:AAFFr7XHkDcibKYuaRcsMEIqd33WlvaQSms"
+TOKEN = "8974692488:AAHeS8pnGvwT6u3-oRzvL4lXD2ckDTkFIac"
 BOT_USERNAME = "HoshaStationBot"
 WEBAPP_URL = "https://phenomenal-frangollo-3a9343.netlify.app/"
 CHANNEL = "@HoshaChannel"
